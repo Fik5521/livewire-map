@@ -1,0 +1,3185 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.499738282,
+                    -6.88743293199997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 1,
+                "OBJECTID": 1,
+                "NAMOBJ": "PT. ATEJA TRITUNGGAL",
+                "ALMIND": "Jl. Raya Batujajar No. KM 2,8, Giriasih, KBB",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.609929634,
+                    -6.97529609399993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 2,
+                "OBJECTID": 2,
+                "NAMOBJ": "PT. BADJATEX",
+                "ALMIND": "Alamat : No. Jl. Cisirung No.87, Pesawahan, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.614819706,
+                    -6.96337662599996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 3,
+                "OBJECTID": 3,
+                "NAMOBJ": "PT. BANDUNG SAKURA TEXTILE MILLS",
+                "ALMIND": "Alamat : Jl. Raya Dayeuhkolot No.33, Dayeuhkolot, Kab. Bandung\nKomiditi : Tekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.605166109,
+                    -6.97415666599994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 4,
+                "OBJECTID": 4,
+                "NAMOBJ": "PT. BENTARA SINAR PRIMA",
+                "ALMIND": "Jl. Cisirung No. 112, Dayeuhkolot",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.795775747,
+                    -6.96663272999996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 5,
+                "OBJECTID": 5,
+                "NAMOBJ": "PT. BERONICA",
+                "ALMIND": "Unknown Point Feature",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.605485643,
+                    -6.97469711199994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 6,
+                "OBJECTID": 6,
+                "NAMOBJ": "PT. BINA CITRA KHARISMA LESTARI",
+                "ALMIND": "Jl. Cisirung No.259/99 Cangkuang Wetan, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.752858226,
+                    -7.04665252799998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 7,
+                "OBJECTID": 7,
+                "NAMOBJ": "PT. BINTANG CIPTA PERKASA",
+                "ALMIND": "Alamat : Jl. Leuwi Dulang No.24 , Sukamaju, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.579894081,
+                    -7.04438651199996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 8,
+                "OBJECTID": 8,
+                "NAMOBJ": "PT. BOZZETO INDONESIA",
+                "ALMIND": "Jl. Desa Tarajusari Km0,2, Kemasan, Banjaran, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.580612414,
+                    -7.04342462499994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 9,
+                "OBJECTID": 9,
+                "NAMOBJ": "PT. BUANA INTAN GEMILANG",
+                "ALMIND": "Alamat : Jl. Tarajusari, Kec. Banjaran, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.807673306,
+                    -6.96621881999994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 10,
+                "OBJECTID": 10,
+                "NAMOBJ": "PT. BUDI AGUNG SENTOSA",
+                "ALMIND": "Jl. Rancaekek No.25,4 Cangkuang, Rancaekek, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.610316016,
+                    -6.97484211599993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 11,
+                "OBJECTID": 11,
+                "NAMOBJ": "PT. CANDRATEX SEJATI",
+                "ALMIND": "Alamat : Jl. Cisirung No.48, Pesawahan, Kota Bandung\nKomiditi : Tekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.760760092,
+                    -6.95544463299996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 12,
+                "OBJECTID": 12,
+                "NAMOBJ": "PT. CELEBIT CIRCUIT INDONESIA",
+                "ALMIND": "Unknown Point Feature",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.748485715,
+                    -7.05057269899993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 13,
+                "OBJECTID": 13,
+                "NAMOBJ": "CV. BIMA JAYA",
+                "ALMIND": "Jl. Raya Laswi No. 118, Padamulya, Majalaya, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.745280469,
+                    -7.04998615799997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 14,
+                "OBJECTID": 14,
+                "NAMOBJ": "CV. MAKMUR ABADI",
+                "ALMIND": "Alamat : Jl. Raya Laswi, Sukamukti, Majalaya, Kab. Bandung.",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.61750939,
+                    -6.96566611099996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 15,
+                "OBJECTID": 15,
+                "NAMOBJ": "CV. PERAJUTAN SAHABAT",
+                "ALMIND": "Jl. Mengger Girang no.8, Pesawahan, Dayeuhkolot, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.746179738,
+                    -7.06750128399995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 16,
+                "OBJECTID": 16,
+                "NAMOBJ": "CV. Purnama Tirtatex",
+                "ALMIND": "Jl. Rancajigang No.198, Majalaya, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.748792474,
+                    -7.05044439199997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 17,
+                "OBJECTID": 17,
+                "NAMOBJ": "CV. SUNGAI INDAH",
+                "ALMIND": "Alamat : Jl. Raya Laswi No.124, Majalya, Kab. Bandung\nKomditi : Pertenunan",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.74899306,
+                    -7.06143975399993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 18,
+                "OBJECTID": 18,
+                "NAMOBJ": "CV. SINAR BARU",
+                "ALMIND": "Jl. Rancajigang no.20, Majalaya, Kab.Bandung\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.749470137,
+                    -7.04879588999995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 19,
+                "OBJECTID": 19,
+                "NAMOBJ": "CV.TIMBULJAYA",
+                "ALMIND": "Jl.Raya Laswi No.99 Majalaya , Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.824882467,
+                    -6.98905668199996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 20,
+                "OBJECTID": 20,
+                "NAMOBJ": "PT. ABC KOAGEN DAIRY",
+                "ALMIND": "Jl. Raya Cicalengka-Majalaya No.103, Cikuya, Cicalengka, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.592940118,
+                    -7.03990429899994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 21,
+                "OBJECTID": 21,
+                "NAMOBJ": "PT. Adetex AF I& AF II",
+                "ALMIND": "Jl. Raya Banjaran No. 590, Batukarut, Kab.Bandung.",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.727431842,
+                    -7.04320537299998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 22,
+                "OBJECTID": 22,
+                "NAMOBJ": "PT. AKTEX CIDALAYA BIRU",
+                "ALMIND": "Jl. Cidawolong No.2, Majalaya, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.616281692,
+                    -6.96770618299996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 23,
+                "OBJECTID": 23,
+                "NAMOBJ": "PT. ALENATEX",
+                "ALMIND": "Alamat : Jl. Moh. Toha No.43 , Pesawahan, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.607189255,
+                    -7.01603114999995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 24,
+                "OBJECTID": 24,
+                "NAMOBJ": "PT. ALFA SARANA INSANI",
+                "ALMIND": "Alamat : Jl. Raya Banjaran No.358, Langonsari, Kota Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.735319626,
+                    -7.04490319999997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 25,
+                "OBJECTID": 25,
+                "NAMOBJ": "PT. ANATA TEXINDO",
+                "ALMIND": "Jl. Raya Laswi No. 7, Majalaya, Kab. Bandung.\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.649249076,
+                    -7.00990372699994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 26,
+                "OBJECTID": 26,
+                "NAMOBJ": "PT. ANGGANA KURNIA PUTRA",
+                "ALMIND": "Alamat : Jl. Mekarsari NO.2, Bojongsari, Bojongsoang, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.753195129,
+                    -7.04550300199998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 27,
+                "OBJECTID": 27,
+                "NAMOBJ": "PT. ANGGREK MAS",
+                "ALMIND": "Alamat : Jl. Leuwidulang No.24, Sukamaju, Majalaya, Kab Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.615507868,
+                    -6.96678871799998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 28,
+                "OBJECTID": 28,
+                "NAMOBJ": "PT. ANUGERAH MEGAH LESTARI",
+                "ALMIND": "Jl. Moh Toha No.34 Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.600845874,
+                    -6.97467752299997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 29,
+                "OBJECTID": 29,
+                "NAMOBJ": "PT. ANUGRAH TRIMULIA TEKSTIL",
+                "ALMIND": "Jl. Cisirung No.173, Cangkuang Wetan, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.61797242,
+                    -6.96598886899994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 30,
+                "OBJECTID": 30,
+                "NAMOBJ": "PT. ARTOSTEX",
+                "ALMIND": "Jl. Mengger No. 5-7,Pesawahan, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.538734378,
+                    -6.93529681099994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 31,
+                "OBJECTID": 31,
+                "NAMOBJ": "PT. GRAHA SEMESTA CARAKA",
+                "ALMIND": "Jl. Raya Nanjung KM4 No2, Margaasih, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.58075099,
+                    -7.04067661499994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 32,
+                "OBJECTID": 32,
+                "NAMOBJ": "PT. GRAHA SURYA ANGKASA",
+                "ALMIND": "Jl. Desa Tarajusari, Tarajusari, Banjaran, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.749143049,
+                    -7.05927028299993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 33,
+                "OBJECTID": 33,
+                "NAMOBJ": "PT. GUNAJAYA SENTOSA",
+                "ALMIND": "Jl. Rancajigang No.110 Majalaya, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.61565705,
+                    -6.96596554599995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 34,
+                "OBJECTID": 34,
+                "NAMOBJ": "PT. HAKATEX",
+                "ALMIND": "Jl. Moh. Toha KM5,6 , Pasawahan, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.755037068,
+                    -7.05109430099998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 35,
+                "OBJECTID": 35,
+                "NAMOBJ": "PT. HANSUNG TEX",
+                "ALMIND": "Jl. CIwalengke No.167, Sukamaju, Majalaya, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.751441592,
+                    -7.05334733899997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 36,
+                "OBJECTID": 36,
+                "NAMOBJ": "PT. HARAPAN NIRWANA",
+                "ALMIND": "Jl. Rancajigang No.25 Majalaya",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.845642534,
+                    -6.99617780799997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 37,
+                "OBJECTID": 37,
+                "NAMOBJ": "PT. CEMARA AGUNG",
+                "ALMIND": "Jl. Raya Cicalengka Timur No. KM31, Margaasih, Cicalengka, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.579914371,
+                    -7.04151263599994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 38,
+                "OBJECTID": 38,
+                "NAMOBJ": "PT. CEMARA KWANGJIN",
+                "ALMIND": "Jl. Tarajusari No.201, Tarajusari, Banjaran, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.616867428,
+                    -6.97221228099994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 39,
+                "OBJECTID": 39,
+                "NAMOBJ": "PT. CERES",
+                "ALMIND": "Jl. Raya Dayeuhkolot No.94, Pasawahan, Kab. Bandung\nPangan",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.809386979,
+                    -7.00635268399998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 40,
+                "OBJECTID": 40,
+                "NAMOBJ": "PT. CHAERON POPHAND INDONESIA",
+                "ALMIND": "Jl. Raya Cicalengka-Majalaya, Cikasungka, Cikancung, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.726391339,
+                    -7.04159400899994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 41,
+                "OBJECTID": 41,
+                "NAMOBJ": "PT. COMODOTEX II",
+                "ALMIND": "Jl. Raya Laswi No. 2 Majalaya, Kab. Bandung.\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.579950902,
+                    -7.04157569299997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 42,
+                "OBJECTID": 42,
+                "NAMOBJ": "PT. DACTEX INDONESIA",
+                "ALMIND": "Jl. Tarajuasri No.201, Banjaran, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.620710645,
+                    -6.98025172299998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 43,
+                "OBJECTID": 43,
+                "NAMOBJ": "PT. DALIATEX KUSUMA",
+                "ALMIND": "Jl. Moch Toha KM7,3 No.307, Citeureup, Dayeuuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.757774409,
+                    -7.05667124599995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 44,
+                "OBJECTID": 44,
+                "NAMOBJ": "PT. DAYUNG MAS LESTARI",
+                "ALMIND": "Jl. Balakembang No,23, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.626003331,
+                    -7.00163018999996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 45,
+                "OBJECTID": 45,
+                "NAMOBJ": "PT. DELIMATEX",
+                "ALMIND": "Jl. Anggadireka No.171 Baleendah, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.755238018,
+                    -7.05142743699997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 46,
+                "OBJECTID": 46,
+                "NAMOBJ": "PT. DEWI SAKTI ANUGRAH",
+                "ALMIND": "Alamat : Jl. Raya Laswi No.220, Sukamaju, Kab.Bandung\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.753426489,
+                    -7.04486009999994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 47,
+                "OBJECTID": 47,
+                "NAMOBJ": "PT. DULANG MAS",
+                "ALMIND": "Jl. Leuwi Dulang No.38, Sukamaju, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.688638625,
+                    -6.98168557099996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 48,
+                "OBJECTID": 48,
+                "NAMOBJ": "PT. DWIDAYA MANDRASAKTI",
+                "ALMIND": "Jl. Raya Sapan No. 69 Tegalluar, Bojongsoang, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.822165082,
+                    -6.99131371799996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 49,
+                "OBJECTID": 49,
+                "NAMOBJ": "PT. ERRITA PHARMA",
+                "ALMIND": "Alamat : Jl. Peundeuy, Cicalengka, Rancaekek, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.616305093,
+                    -6.96866394999995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 50,
+                "OBJECTID": 50,
+                "NAMOBJ": "PT. EXINDO RAYA",
+                "ALMIND": "Jl. Moh Toha No.53, Pasawahan, Dayeuhkolot, Kab. Bdg",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.616557648,
+                    -6.97017168999997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 51,
+                "OBJECTID": 51,
+                "NAMOBJ": "PT. FAMATEX",
+                "ALMIND": "Jl. Raya Dayeuhkolot No.48, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.595270612,
+                    -7.02466420799993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 52,
+                "OBJECTID": 52,
+                "NAMOBJ": "PT. FENG TAY INDONESIA ENTERPRISES",
+                "ALMIND": "Alamat : Jl. Raya Banjaran No. Km RW 04, Bojongmanggu, Kab. Bandung\nKomiditi:",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.741345503,
+                    -7.04989181099995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 53,
+                "OBJECTID": 53,
+                "NAMOBJ": "PT. FERINATEX\nJAYA",
+                "ALMIND": "Jl. Cihaneut No. 16 Majalaya, Kab. Bandung.\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.620950072,
+                    -6.97289449499993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 54,
+                "OBJECTID": 54,
+                "NAMOBJ": "PT. FIRMAN JAYA DUA SAUDARA",
+                "ALMIND": "Jl. Radio-Palasari No. 149-150, Dayeuhkolot, Kab. Bandung\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.790266887,
+                    -6.96019588499996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 55,
+                "OBJECTID": 55,
+                "NAMOBJ": "PT. FIVE STAR TEXTILES INDONESIA",
+                "ALMIND": "Alamat : Jl. Rancaekek, Cinta Mulya, Jatinangor, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.75694405,
+                    -7.05391122399993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 56,
+                "OBJECTID": 56,
+                "NAMOBJ": "PT. GAJAH MADA",
+                "ALMIND": "Jl. Balekambang No.20 Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.421521024,
+                    -7.18400403499993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 57,
+                "OBJECTID": 57,
+                "NAMOBJ": "PT. GEO DIPA ENERGI UNIT PATUHA",
+                "ALMIND": "Alamat : Jl. Sugihmukti, Kec. Pasirjambu, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.536166818,
+                    -6.93715415499997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 58,
+                "OBJECTID": 58,
+                "NAMOBJ": "PT. Gistex Unit 3 - Textile Division",
+                "ALMIND": "Jl. Raya Nanjung No.82, Nanjung, Margaasih, Kab.Bandung\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.536087989,
+                    -6.93763355499993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 59,
+                "OBJECTID": 59,
+                "NAMOBJ": "PT. GISTEX",
+                "ALMIND": "Unknown Point Feature",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.618585329,
+                    -6.97538368799997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 60,
+                "OBJECTID": 60,
+                "NAMOBJ": "PT. GODIVA ASTREA TEXITILE",
+                "ALMIND": "Jl. Raya Dayeuhkolot No. 179, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.743099732,
+                    -7.04828216799996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 61,
+                "OBJECTID": 61,
+                "NAMOBJ": "PT. HARLI DUNIA INDAH",
+                "ALMIND": "Jl. Randukurung Utara No.26, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.747551322,
+                    -7.05469851899994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 62,
+                "OBJECTID": 62,
+                "NAMOBJ": "PT. HIMALAYA TUNAS TEXINDO",
+                "ALMIND": "Jl. Pangkalan Raya No. 20, Kab. Bandung\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.606471825,
+                    -6.97476396099995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 63,
+                "OBJECTID": 63,
+                "NAMOBJ": "PT. IDAMAN ERA MANDIRI",
+                "ALMIND": "Alamat : Jl. Cisirung No.97, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.616354273,
+                    -6.96937758199994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 64,
+                "OBJECTID": 64,
+                "NAMOBJ": "PT. IDAR BUANA",
+                "ALMIND": "Jl. Moh. Toha No.44 Pasawahan, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.751011681,
+                    -7.05406369799994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 65,
+                "OBJECTID": 65,
+                "NAMOBJ": "PT. IDOLA SELARAS ABADI",
+                "ALMIND": "Jl. Rancajigang No.32, Padamulya, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.753583686,
+                    -6.94362247899994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 66,
+                "OBJECTID": 66,
+                "NAMOBJ": "PT. IKAFOOD PUTRAMAS",
+                "ALMIND": "Alamat : Jl. Panyawungan No.6, Cileunyi Wetan, Kab. Bandung\nKomiditi : Pangan",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.759018746,
+                    -7.06060345499998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 67,
+                "OBJECTID": 67,
+                "NAMOBJ": "PT. INDO BUANA MAKMUR TEXTILE",
+                "ALMIND": "Sukamaju, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.729967364,
+                    -7.04217854599995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 68,
+                "OBJECTID": 68,
+                "NAMOBJ": "PT. INDO PACIFIC",
+                "ALMIND": "Alamat : Jl. Raya Laswi No.1 , Majalaya, Kota Bandung\nKomiditi : tekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.612217482,
+                    -6.98338943299996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 69,
+                "OBJECTID": 69,
+                "NAMOBJ": "PT. INDOHASASI",
+                "ALMIND": "Jl. Ketapang Andir No. 30, Andir, Baleendah, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.80590755,
+                    -6.96580464799996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 70,
+                "OBJECTID": 70,
+                "NAMOBJ": "PT. Indoneptune Net Manufacturing",
+                "ALMIND": "Jl. Raya Rancaekek-Garut, Cangkuang, Rancaekek, Kab. Bandung\nManufaktur",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.785456007,
+                    -7.13871171299996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 71,
+                "OBJECTID": 71,
+                "NAMOBJ": "PT. Indonesia Power Unit PLTP Kamojang",
+                "ALMIND": "Desa Laksana, Ibun, Kab. Bandung.\nOil and Gas",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.496378285,
+                    -6.89512343299998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 72,
+                "OBJECTID": 72,
+                "NAMOBJ": "PT. INDORAMA SYNTHETICS",
+                "ALMIND": "Alamat : Jl. Raya Batujajar No. km 5,5 , Giriasih, KBB",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.78708797,
+                    -6.96088326399996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 73,
+                "OBJECTID": 73,
+                "NAMOBJ": "PT. INDOVON PITALIKA PERKASA",
+                "ALMIND": "Alamat : Jl. Rancaekek km23,8 , linggar rancaekek, Jatinangor, kab.sumedang",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.743441611,
+                    -7.04643685199994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 74,
+                "OBJECTID": 74,
+                "NAMOBJ": "PT. IWAMATEX",
+                "ALMIND": "Jl. Padaulun, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.814009243,
+                    -6.96725632299996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 75,
+                "OBJECTID": 75,
+                "NAMOBJ": "PT. JATAYUTEX",
+                "ALMIND": "Jl. Raya Bandung-Garut, Cihanjuang, Cimanggung, Kab. Sukabumi",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.541076152,
+                    -6.91999316899995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 76,
+                "OBJECTID": 76,
+                "NAMOBJ": "PT. JERDYTEX",
+                "ALMIND": "Unknown Point Feature",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.79170169,
+                    -6.95663646799994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 77,
+                "OBJECTID": 77,
+                "NAMOBJ": "PT. KAHATEX",
+                "ALMIND": "Alamat : Jl. Raya Rancaekek km.6, Bojongloa, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.823856777,
+                    -6.98992118199993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 78,
+                "OBJECTID": 78,
+                "NAMOBJ": "PT. KALDU SARI NABATI",
+                "ALMIND": "Alamat :Jl. Cicalengka-Majalaya Km1,6 Bojongsalam, Rancaekek, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.614253296,
+                    -6.96234956699993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 79,
+                "OBJECTID": 79,
+                "NAMOBJ": "PT. KARYA HIDUP JAYANTARA",
+                "ALMIND": "Jl. Raya Lingkar Bojong Sereh, Bojongmanggu, Pameungpeuk, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.688030305,
+                    -6.97492992599996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 80,
+                "OBJECTID": 80,
+                "NAMOBJ": "PT. KERTAS TRIMITRA MANDIRI",
+                "ALMIND": "Alamat : Jl. Raya Sapan Km1, Derwati, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.590570258,
+                    -6.97442678999994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 81,
+                "OBJECTID": 81,
+                "NAMOBJ": "PT. KERTSAIRE",
+                "ALMIND": "Jl. Raya Sayuran No. 9 Cangkuang, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.54330922,
+                    -6.93167547599995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 82,
+                "OBJECTID": 82,
+                "NAMOBJ": "PT. KHARISMA LESTARI JAYA",
+                "ALMIND": "Alamat : Jl. Rancamalang No.99, Margaasih, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.803168909,
+                    -6.96449270199997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 83,
+                "OBJECTID": 83,
+                "NAMOBJ": "PT. KOSINA",
+                "ALMIND": "Unknown Point Feature",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.598959212,
+                    -7.03084305599998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 84,
+                "OBJECTID": 84,
+                "NAMOBJ": "PT. KTSM",
+                "ALMIND": "Jl. Bojong Manggi Pemeungpeuk, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.72725159,
+                    -7.04331485599994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 85,
+                "OBJECTID": 85,
+                "NAMOBJ": "PT. LAJU CITRA LESTARI",
+                "ALMIND": "Jl. Biru Ciparay No. 6, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.551981255,
+                    -6.98506598599994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 86,
+                "OBJECTID": 86,
+                "NAMOBJ": "PT. LAUTAN WARNASARI",
+                "ALMIND": "JL. Cilampeni/Murci, RT. 02/I, Ketapang, Bandung, Cilampeni, Katapang, Bandung, West Java 40921",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.599598313,
+                    -6.97477476599994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 87,
+                "OBJECTID": 87,
+                "NAMOBJ": "PT. MAHAMERU CSM",
+                "ALMIND": "Alamat : Jl. Cisirung Km2, Dayeuhkolot, Kab. bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.606787153,
+                    -7.01203911199997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 88,
+                "OBJECTID": 88,
+                "NAMOBJ": "PT. MALAKASARI",
+                "ALMIND": "Jl. Raya Banjaran No. Km12,2, Malakasari, Baleendah, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.618645118,
+                    -6.97637739899994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 89,
+                "OBJECTID": 89,
+                "NAMOBJ": "PT. MARGA SANDANG TEXTILE",
+                "ALMIND": "Jl. Raya Dayeuhkolot No.114, Citeureup, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.75267909,
+                    -7.04235256399994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 90,
+                "OBJECTID": 90,
+                "NAMOBJ": "PT. MASATEX",
+                "ALMIND": "Jl. Leuwi Dulang No.53, Sukamaju, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.752647622,
+                    -7.04774709499998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 91,
+                "OBJECTID": 91,
+                "NAMOBJ": "PT. PULAU MAS TEXTILE",
+                "ALMIND": "Jl. Leuwidulang No.25, Rancamulya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.614772927,
+                    -6.96635902099996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 92,
+                "OBJECTID": 92,
+                "NAMOBJ": "PT. PURBASARI PUPUNDEN",
+                "ALMIND": "Jl. Raya Deyeuhkolot No.32, Citeureup, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.745645334,
+                    -7.06890498399997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 93,
+                "OBJECTID": 93,
+                "NAMOBJ": "PT. PUTRA MULYA TERANG INDAH",
+                "ALMIND": "Jl. Rancajigang No. 200,Majalaya, Kab. Bandung\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.731348649,
+                    -7.04174578899995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 94,
+                "OBJECTID": 94,
+                "NAMOBJ": "PT. RUKUN CITRA TEXINDO",
+                "ALMIND": "Jl.Raya Laswi No. 1, Majalaya, Kab.Bandung\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.591663238,
+                    -7.02496431799995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 95,
+                "OBJECTID": 95,
+                "NAMOBJ": "PT. SAFILINDO PERMATA",
+                "ALMIND": "Unknown Point Feature",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.744510374,
+                    -7.04669261299995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 96,
+                "OBJECTID": 96,
+                "NAMOBJ": "PT. SAMATEX",
+                "ALMIND": "Jl. Randukurung No.9, Padamulya, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.807622706,
+                    -6.96835146699993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 97,
+                "OBJECTID": 97,
+                "NAMOBJ": "PT. MASTER LAUNDRY",
+                "ALMIND": "Unknown Point Feature",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59447223,
+                    -7.03889270499997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 98,
+                "OBJECTID": 98,
+                "NAMOBJ": "PT. MITRA RAJAWALI BANJARAN",
+                "ALMIND": "Jl. Raya Banjaran KM.16, Batukarut, Arjasari, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.606605833,
+                    -6.97446500499996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 99,
+                "OBJECTID": 99,
+                "NAMOBJ": "PT. MORIUCHI INDONESIA",
+                "ALMIND": "Jl. Cisirung No.107, Dayeuhkolot, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.619498855,
+                    -6.97702330399994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 100,
+                "OBJECTID": 100,
+                "NAMOBJ": "PT. MULTI GARMENT JAYA",
+                "ALMIND": "Alamat : Jl. Moh. Toha No.215, Citeureup, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.746876167,
+                    -7.06443404399994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 101,
+                "OBJECTID": 101,
+                "NAMOBJ": "PT. MULTI STAR RUKUN ABADI",
+                "ALMIND": "Jl. Rancajigang No.180, Padamulya, Majalaya, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.752591756,
+                    -7.04747635199993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 102,
+                "OBJECTID": 102,
+                "NAMOBJ": "PT. NAGAMAS KURNIA SEJAHTERA",
+                "ALMIND": "Alamat : Jl. Leuwi Dulang No.27 , Sukamaju, Majalaya, Kab. Bandung\nKomiditi : Tekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.613148591,
+                    -6.97516079999997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 103,
+                "OBJECTID": 103,
+                "NAMOBJ": "PT. NAGASAKTI KURNIA TEXTILE MILLS",
+                "ALMIND": "Alamat : Jl. Cisirung No.38, Pasawahan, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.750703091,
+                    -7.05847497199994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 104,
+                "OBJECTID": 104,
+                "NAMOBJ": "PT. NASATEX",
+                "ALMIND": "Jl. Rancajigang N0.86, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.752776105,
+                    -7.03426498999994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 105,
+                "OBJECTID": 105,
+                "NAMOBJ": "PT. NIRWANA ABADI SANTOSA",
+                "ALMIND": "Alamat : Jl. Manirancan No.207, Majasetra, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 106,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.596019874,
+                    -7.02113567099997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 106,
+                "OBJECTID": 106,
+                "NAMOBJ": "PT. NOBEL INDUSTRIES",
+                "ALMIND": "Jl. Raya Banjaran No.536, Sukasari, Pamengpeuk, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 107,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.616940269,
+                    -6.97392886099993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 107,
+                "OBJECTID": 107,
+                "NAMOBJ": "PT. PAN ASIA JAYA ABADI",
+                "ALMIND": "Alamat : Jl. Moh. Toha KM6,8 Cisirung No12, Cigereleng, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.616031577,
+                    -6.96826784699994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 108,
+                "OBJECTID": 108,
+                "NAMOBJ": "PT. PANASIA INDO RESOURCES",
+                "ALMIND": "Alamat : Jl. Moh. Toha No. Km. 6, Pesawahan, Daeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.729817313,
+                    -7.04281193699995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 109,
+                "OBJECTID": 109,
+                "NAMOBJ": "PT. PANCA MITRA SANDANG INDAH",
+                "ALMIND": "Alamat : Jl. Raya Laswi No.6, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.616126859,
+                    -6.97077050299993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 110,
+                "OBJECTID": 110,
+                "NAMOBJ": "PT. PAPANDAYAN COCOA INDUSTRIES",
+                "ALMIND": "Alamat : Jl. Raya Dayeuhkolot No.84, Pasawahan, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 111,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.617371981,
+                    -6.96535058599994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 111,
+                "OBJECTID": 111,
+                "NAMOBJ": "PT. PAPANDAYAN COCOA INDUSTRIES-BERRY CALLEBAUT",
+                "ALMIND": "Alamat : Jl. Mengger, Pesawahan, Dayeuhkolot, Kab. Bandung\nKomditi : Pangan",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 112,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.592851583,
+                    -7.03862154899997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 112,
+                "OBJECTID": 112,
+                "NAMOBJ": "PT. Papyrus Sakti",
+                "ALMIND": "Jl. Raya Dayeuhkolot Km. 16.2 Banjaran, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.790462371,
+                    -7.15276770799994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 113,
+                "OBJECTID": 113,
+                "NAMOBJ": "PT. PGE AREA KAMOJANG",
+                "ALMIND": "Jl. Raya Kamojang Ds. Laksana , Ibun, Kab. Bandung\nOil and Gas",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 114,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.893467067,
+                    -7.01638579999997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 114,
+                "OBJECTID": 114,
+                "NAMOBJ": "PT. PGT SINDANG WANGI",
+                "ALMIND": "Jl. Gunungbaru, Nagreg",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.534171894,
+                    -6.93617070799996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 115,
+                "OBJECTID": 115,
+                "NAMOBJ": "PT. POPULAR DEANONG",
+                "ALMIND": "Unknown Point Feature",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.594018659,
+                    -7.02725569399996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 116,
+                "OBJECTID": 116,
+                "NAMOBJ": "PT. PRANATA JAYA ABADI",
+                "ALMIND": "Unknown Point Feature",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.557431463,
+                    -6.98603956299996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 117,
+                "OBJECTID": 117,
+                "NAMOBJ": "PT. PRIMA BANGUN NUSANTARA",
+                "ALMIND": "Jl. Cilampeni No.22, Katapang, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.593292103,
+                    -7.02672653999997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 118,
+                "OBJECTID": 118,
+                "NAMOBJ": "PT. PRODIAN CHEMICALS INDONESIA",
+                "ALMIND": "Alamat : KM14,7 NO.626, Jl. Raya Banjaran, Sukasari kab. bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.539598556,
+                    -6.92610124599997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 119,
+                "OBJECTID": 119,
+                "NAMOBJ": "PT. PULAU MAS TEXINDO (1)",
+                "ALMIND": "Jl. Raya Nanjung No.9, Lagadar, Kab. Bandung\nTextile",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.541363123,
+                    -6.92291971999993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 120,
+                "OBJECTID": 120,
+                "NAMOBJ": "PT. PULAU MAS TEXINDO",
+                "ALMIND": "Unknown Point Feature",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.629792792,
+                    -6.99352119599996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 121,
+                "OBJECTID": 121,
+                "NAMOBJ": "PT. TRIDAYAMAS SINARPUSAKA",
+                "ALMIND": "Jl. Mekar Sari 1 Cieunteung Cigado, 02/02, Baleendah, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.741110521,
+                    -7.04838420599998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 122,
+                "OBJECTID": 122,
+                "NAMOBJ": "PT. TRIJASA SARANA PRATAMA TEXTILE (JASATEX)",
+                "ALMIND": "Alamat : Jl. Raya Laswi NO.43, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.732684563,
+                    -7.04437646499997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 123,
+                "OBJECTID": 123,
+                "NAMOBJ": "PT. TRIPUTRA",
+                "ALMIND": "Alamat : Jl. Raya Laswi No.12, Majalaya, Kab. Bandung\nKomiditi : Tekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 124,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.74193987,
+                    -7.02481387399996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 124,
+                "OBJECTID": 124,
+                "NAMOBJ": "PT. TRISAN ABADI",
+                "ALMIND": "Jl. Raya Sapan No. 128, Rancakasumba, Solokan Jeruk, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 125,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.750686337,
+                    -7.05870096499996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 125,
+                "OBJECTID": 125,
+                "NAMOBJ": "PT. UNGGUL BUKIT KENCANA",
+                "ALMIND": "Jl. Rancajigang No. 88, Majalaya, Kab. Bandung.",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 126,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.79386434,
+                    -6.96300274399994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 126,
+                "OBJECTID": 126,
+                "NAMOBJ": "PT. VONEX INDONESIA",
+                "ALMIND": "Jl. Raya Bandung-Garut No.Km 23,7 , Rancaekek, Kab. Bandung.",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 127,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.743761399,
+                    -7.05005833799993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 127,
+                "OBJECTID": 127,
+                "NAMOBJ": "PT. SARISANDANG",
+                "ALMIND": "Jl. Raya Laswi No.82, Sarimukti, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.749189743,
+                    -7.06105005599994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 128,
+                "OBJECTID": 128,
+                "NAMOBJ": "PT. SATYA SUMBA CEMERLANG",
+                "ALMIND": "Jl. Rancajigang No121, Majalaya, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.743452512,
+                    -7.04828913099993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 129,
+                "OBJECTID": 129,
+                "NAMOBJ": "PT. SEKAWAN",
+                "ALMIND": "Jl. Randukurung No. 1, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.809247132,
+                    -6.96780872099993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 130,
+                "OBJECTID": 130,
+                "NAMOBJ": "PT. SENO TEXINDO",
+                "ALMIND": "Jl. Raya Bandung - Gart Km. 25,5 Rancaekek , Kab. Bandung\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.736186784,
+                    -7.04625350499998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 131,
+                "OBJECTID": 131,
+                "NAMOBJ": "PT. SERAYU JAYA",
+                "ALMIND": "Jl. Raya Laswi No.47 Majalaya, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.727938226,
+                    -7.04163919999996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 132,
+                "OBJECTID": 132,
+                "NAMOBJ": "PT. SETIATEX KUSMAJAYA",
+                "ALMIND": "Jl. Raya Laswi, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 133,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.744431368,
+                    -7.04863577699996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 133,
+                "OBJECTID": 133,
+                "NAMOBJ": "PT. SIDOTEX",
+                "ALMIND": "Jl. Laswi No. 51 / 75, Majalayan, Kab.Bandung\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 134,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.754959513,
+                    -7.03796582999996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 134,
+                "OBJECTID": 134,
+                "NAMOBJ": "PT. SINAR ANEKA WARNA",
+                "ALMIND": "Jl. Raya Laswi No.124, Majalaya, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.743795342,
+                    -7.04967863399997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 135,
+                "OBJECTID": 135,
+                "NAMOBJ": "PT. SINAR DOMAS TEXTILE",
+                "ALMIND": "Jl. Raya Laswi No.151, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.737199214,
+                    -7.04615721499994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 136,
+                "OBJECTID": 136,
+                "NAMOBJ": "PT. SINAR MAJALAYA LESTARI",
+                "ALMIND": "Alamat : Jl. Raya Laswi No.21, Padaulun, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.738599516,
+                    -7.04742306399993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 137,
+                "OBJECTID": 137,
+                "NAMOBJ": "PT. SINAR PELITA TERANG INDAH",
+                "ALMIND": "Jl. Raya Laswi No.52, Majalaya, Kab, Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.748990222,
+                    -7.05023540399998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 138,
+                "OBJECTID": 138,
+                "NAMOBJ": "PT. SINARSARI",
+                "ALMIND": "Jl. Laswi No. 97, Kab. Bandung\nTekstil - Kain",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 139,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.750733207,
+                    -7.01138034699994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 139,
+                "OBJECTID": 139,
+                "NAMOBJ": "PT. SIPATEX PUTRI LESTARI",
+                "ALMIND": "Alamat : Jl. Raya Laswi No.101, Solokanjeruk, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 140,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.554043214,
+                    -6.98835338899994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 140,
+                "OBJECTID": 140,
+                "NAMOBJ": "PT. STANLI TRIJAYA MANDIRI 1",
+                "ALMIND": "Cilampeni, Katapang, Bandung, West Java 40921",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.625888516,
+                    -7.19819616199993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 141,
+                "OBJECTID": 141,
+                "NAMOBJ": "Starenergy Geothermal (Wayang Windu) ltd",
+                "ALMIND": "Alamat : Perkebunan Kertamanah, Margamukti, Pangalengan, Kab.Bandung\nKomiditi : Oil and Gas",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.588000167,
+                    -7.03154538399997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 142,
+                "OBJECTID": 142,
+                "NAMOBJ": "PT. SUDONG METAL BUTTONINDO",
+                "ALMIND": "Jl. Waas No.54, Sukasari, Pameungpeuk, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.580899625,
+                    -7.03483789999996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 143,
+                "OBJECTID": 143,
+                "NAMOBJ": "PT. SURYA USAHA MANDIRI",
+                "ALMIND": "Jl. Desa Tarajusari No.8, Tarajusari, Banjaran, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 144,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.81586923,
+                    -6.96679347199995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 144,
+                "OBJECTID": 144,
+                "NAMOBJ": "PT. TASTEX",
+                "ALMIND": "Jl. Rancaekek Km 26,6 Rancaekek, kab.bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.823731684,
+                    -6.97359525199994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 145,
+                "OBJECTID": 145,
+                "NAMOBJ": "PT. TATA CAKRA INVESTAMA",
+                "ALMIND": "Jl. Raya Bandung Garut No. Km.28, Panenjoan, Cicalengka, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 146,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.619390261,
+                    -6.96561954099997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 146,
+                "OBJECTID": 146,
+                "NAMOBJ": "PT. TEGUH JAYA PRANATA",
+                "ALMIND": "Jl. Mengger No.99 Sukapura, Dayeuhkolot, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.738445603,
+                    -7.04739685899995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 147,
+                "OBJECTID": 147,
+                "NAMOBJ": "PT. TERBINTANG LOKAWARNA",
+                "ALMIND": "Alamat : Jl. Raya Laswi No.48, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.800691036,
+                    -7.01605442499994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 148,
+                "OBJECTID": 148,
+                "NAMOBJ": "PT. TIMBUL JAYA I",
+                "ALMIND": "Jl. Raya Cicalengka, Srirahayu, Cikancung, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.576766895,
+                    -7.05140745299997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 149,
+                "OBJECTID": 149,
+                "NAMOBJ": "PT. TRI SUMBER MAKMUR",
+                "ALMIND": "Jl. Raya Pangalengan No.391-A, Kamasan, Banjar, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.738391178,
+                    -7.04737007099993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 150,
+                "OBJECTID": 150,
+                "NAMOBJ": "PT. TRIBINTANG LOKAWARNA",
+                "ALMIND": "Jl Raya Laswi No.48 Majalaya, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.556677835,
+                    -6.98383858299997
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 151,
+                "OBJECTID": 151,
+                "NAMOBJ": "PT. WAITEX",
+                "ALMIND": "Jl. Cilampeni KM7, Katapang, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.755935302,
+                    -7.05768508099993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 152,
+                "OBJECTID": 152,
+                "NAMOBJ": "PT. WARNA INDAH SAMAJAYA",
+                "ALMIND": "Jl. Balekambang No.29, Sukamaju, Majalaya, Kab. Bandung\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 153,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.587050072,
+                    -7.02985168899994
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 153,
+                "OBJECTID": 153,
+                "NAMOBJ": "PT. WEHARIMA LANGGENG LESTARI",
+                "ALMIND": "Alamat : Jl. Waas No.41 Sukasari, Paameungpeuk, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.807672266,
+                    -7.00995900699996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 154,
+                "OBJECTID": 154,
+                "NAMOBJ": "PT. YORKSHIRE INDONESIA",
+                "ALMIND": "Alamat : Jl. Raya Cicalengka, Mandalasari, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.822717546,
+                    -6.97487528899995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 155,
+                "OBJECTID": 155,
+                "NAMOBJ": "PT. ARTHABAMATEXINDO",
+                "ALMIND": "Jl. Raya Bandung - Garut Km. 28 Cicalengka, Kab. Bandung\nTekstil",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.736537602,
+                    -7.04592615799993
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 156,
+                "OBJECTID": 156,
+                "NAMOBJ": "PT. CITA BAHANA INTI PERSADA",
+                "ALMIND": "Jl. Laswi No. 11, Majalaya, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.604276273,
+                    -7.22747231899996
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 157,
+                "OBJECTID": 157,
+                "NAMOBJ": "PT.PERKEBUNAN NUSANTARA VIII KEBUN MALABAR",
+                "ALMIND": "Banjarsari, Pangalengan, Kab. Bandung.\nPangan",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 158,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.75679457,
+                    -7.05768903799998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 158,
+                "OBJECTID": 158,
+                "NAMOBJ": "PT. TERUS MAJU JAYA PERKASA",
+                "ALMIND": "Alamat : Jl. Majalaya No.29, Sukamaju, Kab. Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.734413291,
+                    -7.04458321299995
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 159,
+                "OBJECTID": 159,
+                "NAMOBJ": "PT. TRIBAKTI",
+                "ALMIND": "Jl.Raya Laswi No. 5, Majalaya, Kab.Bandung",
+                "FCODE": "GC01050020",
+                "METADATA": "INDUSTRI50K2021KABUPATENBANDUNG",
+                "SRS_ID": "SRGI2013"
+            }
+        }
+    ]
+}
