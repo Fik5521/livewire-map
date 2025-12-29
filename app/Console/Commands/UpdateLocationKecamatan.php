@@ -49,12 +49,8 @@ class UpdateLocationKecamatan extends Command
                 }
             }
 
-            // Update database: Menggabungkan nama industri dengan kecamatan
-            // Contoh: "PT. ABC" menjadi "PT. ABC (Cileunyi)"
             $location->update([
-                'name' => $location->name . " (" . $detectedKec . ")",
-                // Jika Anda punya kolom 'kecamatan' sendiri, isi di sini:
-                // 'kecamatan' => $detectedKec 
+                'kecamatan' => $detectedKec
             ]);
 
             $bar->advance();

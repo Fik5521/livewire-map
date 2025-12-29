@@ -6,5 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Location extends Model
 {
-    protected $fillable = ['name', 'address', 'fcode', 'lat', 'lng'];
+    // Pastikan semua field ini ada agar bisa masuk ke MySQL
+    protected $fillable = ['name', 'kecamatan', 'address', 'fcode', 'radius', 'lat', 'lng'];
 }

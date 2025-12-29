@@ -13,9 +13,11 @@ return new class extends Migration
     {
         Schema::create('locations', function (Blueprint $table) {
             $table->id();
-            $table->string('name'); // Mapping dari NAMOBJ
-            $table->text('address')->nullable(); // Mapping dari ALMIND
-            $table->string('fcode')->nullable(); // Mapping dari FCODE
+            $table->string('name');
+            $table->string('kecamatan')->nullable(); // Tambahkan ini agar tidak error nanti
+            $table->text('address')->nullable();
+            $table->string('fcode')->nullable();
+            $table->integer('radius')->default(150); // Kolom yang hilang tadi
             $table->decimal('lat', 10, 8);
             $table->decimal('lng', 11, 8);
             $table->timestamps();
