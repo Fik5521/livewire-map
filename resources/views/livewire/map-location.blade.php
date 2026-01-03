@@ -1,4 +1,4 @@
-<div class="bg-white min-vh-100 p-4">
+<div id="data-industri" class="bg-white min-vh-100 p-4">
     <div class="d-flex justify-content-between align-items-end pb-4 mb-4 border-bottom border-light-subtle">
         <div>
             <nav aria-label="breadcrumb">
