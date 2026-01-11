@@ -119,6 +119,7 @@
             width: 100%;
             border-radius: 8px;
         }
+
         .map-controls {
             position: absolute;
             top: 12px;
@@ -127,18 +128,20 @@
             display: flex;
             gap: 6px;
         }
+
         .map-control-btn {
             padding: 6px 10px;
             border-radius: 8px;
             font-size: 13px;
-            border: 1px solid rgba(0,0,0,0.08);
-            background: rgba(255,255,255,0.95);
+            border: 1px solid rgba(0, 0, 0, 0.08);
+            background: rgba(255, 255, 255, 0.95);
             cursor: pointer;
         }
+
         .map-control-btn.active {
             background: #0d6efd;
             color: #fff;
-            border-color: rgba(13,110,253,0.9);
+            border-color: rgba(13, 110, 253, 0.9);
         }
     </style>
     @livewireStyles
@@ -173,7 +176,8 @@
             <div class="d-flex justify-content-between align-items-end pb-4 mb-4 border-bottom border-light-subtle">
                 <div>
                     <h2 class="h3 fw-bold text-dark mb-1">Peta Penyebaran Industri</h2>
-                    <p class="text-secondary mb-0">Visualisasi geografis dan analisis distribusi pabrik di Kabupaten Bandung</p>
+                    <p class="text-secondary mb-0">Visualisasi geografis dan analisis distribusi pabrik di Kabupaten
+                        Bandung</p>
                 </div>
                 <div class="d-flex gap-2">
                     <div class="text-end">
@@ -207,29 +211,34 @@
     @stack('scripts')
 
     <script>
-        document.addEventListener('DOMContentLoaded', function () {
+        document.addEventListener('DOMContentLoaded', function() {
             // Sidebar toggle
             const sidebar = document.getElementById('sidebar');
             const mainContent = document.querySelector('.main-content');
             const toggleBtn = document.getElementById('sidebar-toggle');
-            
-            toggleBtn.addEventListener('click', function () {
+
+            toggleBtn.addEventListener('click', function() {
                 sidebar.classList.toggle('collapsed');
                 mainContent.classList.toggle('expanded');
             });
 
             // Smooth scroll for sidebar links
             document.querySelectorAll('[data-scroll]').forEach(el => {
-                el.addEventListener('click', function (e) {
+                el.addEventListener('click', function(e) {
                     e.preventDefault();
                     const target = document.querySelector(this.getAttribute('href'));
-                    if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    if (target) target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
                 });
             });
 
             // Initialize main dashboard map and load locations + heatmap
             if (document.getElementById('main-map')) {
-                const map = L.map('main-map', { preferCanvas: true }).setView([-7.025, 107.52], 11);
+                const map = L.map('main-map', {
+                    preferCanvas: true
+                }).setView([-7.025, 107.52], 11);
                 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
                 // layers
@@ -254,18 +263,25 @@
                             const lat = parseFloat(loc.lat);
                             const lng = parseFloat(loc.lng);
                             if (!isNaN(lat) && !isNaN(lng)) {
-                                const m = L.marker([lat, lng]).bindPopup(`<strong>${loc.name}</strong><br>${loc.kecamatan || ''}`);
+                                const m = L.marker([lat, lng]).bindPopup(
+                                    `<strong>${loc.name}</strong><br>${loc.kecamatan || ''}`);
                                 markersLayer.addLayer(m);
                                 heatPoints.push([lat, lng, 0.5]);
                             }
                         });
 
                         if (heatPoints.length) {
-                            heatLayer = L.heatLayer(heatPoints, { 
-                                radius: 30, 
-                                blur: 20, 
+                            heatLayer = L.heatLayer(heatPoints, {
+                                radius: 30,
+                                blur: 20,
                                 maxZoom: 17,
-                                gradient: {0.0: '#ffff99', 0.25: '#ff9900', 0.5: '#ff6600', 0.75: '#ff3300', 1.0: '#cc0000'}
+                                gradient: {
+                                    0.0: '#ffff99',
+                                    0.25: '#ff9900',
+                                    0.5: '#ff6600',
+                                    0.75: '#ff3300',
+                                    1.0: '#cc0000'
+                                }
                             }).addTo(map);
                         }
 
@@ -279,9 +295,12 @@
                                         weight: 1.5,
                                         fillOpacity: 0.06
                                     },
-                                    onEachFeature: function (feature, layer) {
-                                        if (feature.properties && feature.properties.nm_kecamatan) {
-                                            layer.bindTooltip(feature.properties.nm_kecamatan, { sticky: true });
+                                    onEachFeature: function(feature, layer) {
+                                        if (feature.properties && feature.properties
+                                            .nm_kecamatan) {
+                                            layer.bindTooltip(feature.properties.nm_kecamatan, {
+                                                sticky: true
+                                            });
                                         }
                                     }
                                 }).addTo(map);
@@ -304,21 +323,23 @@
                     }
                 }
 
-                btnHeat.addEventListener('click', function () {
+                btnHeat.addEventListener('click', function() {
                     const visible = !this.classList.contains('active');
                     setLayerVisibility(heatLayer, visible, this);
                 });
-                btnBound.addEventListener('click', function () {
+                btnBound.addEventListener('click', function() {
                     const visible = !this.classList.contains('active');
                     setLayerVisibility(boundariesLayer, visible, this);
                 });
-                btnMarks.addEventListener('click', function () {
+                btnMarks.addEventListener('click', function() {
                     const visible = !this.classList.contains('active');
                     setLayerVisibility(markersLayer, visible, this);
                 });
 
                 // ensure proper rendering after insertion
-                setTimeout(() => { map.invalidateSize(); }, 300);
+                setTimeout(() => {
+                    map.invalidateSize();
+                }, 300);
             }
         });
     </script>

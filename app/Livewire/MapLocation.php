@@ -2,33 +2,37 @@
 
 namespace App\Livewire;
 
+use App\Models\LocationDetail;
 use Livewire\Component;
 use App\Models\Location;
 use Livewire\Attributes\On;
+use Livewire\WithFileUploads;
 use Livewire\WithPagination;
-
+use Illuminate\Support\Facades\Storage;
 class MapLocation extends Component
 {
 
-    use WithPagination; // Aktifkan pagination
+    use WithPagination; //Aktifkan pagination
+    use WithFileUploads;
 
     public $locationId, $name, $kecamatan, $address, $fcode, $radius = 150, $lat, $lng;
     public $isEdit = false;
     public $showModal = false;
     public $search = '';
-
-    // Properti untuk kontrol tabel
-    public $perPage = 5; // Default 5 data per halaman
-    public $sortField = 'created_at'; // Urutan default (terbaru)
+    //Properti untuk kontrol tabel
+    public $perPage = 5; //Default 5 data per halaman
+    public $sortField = 'created_at'; //Urutan default (terbaru)
     public $sortDirection = 'desc';
+    public $photo_urls = [];
+    public $existingPhotos = [];
 
-    // Reset halaman ke nomor 1 setiap kali user mengetik di kolom pencarian
+    //Reset halaman ke nomor 1 setiap kali user mengetik di kolom pencarian
     public function updatingSearch()
     {
         $this->resetPage();
     }
 
-    // Reset halaman ke nomor 1 setiap kali user mengubah perPage
+    //Reset halaman ke nomor 1 setiap kali user mengubah perPage
     public function updatingPerPage()
     {
         $this->resetPage();
@@ -64,7 +68,7 @@ class MapLocation extends Component
     #[On('setCoordinates')]
     public function setCoordinates()
     {
-        // Mendukung payload berbentuk object/array (dari JS dispatch) atau arg positional
+        //Mendukung payload berbentuk object/array (dari JS dispatch) atau arg positional
         $args = func_get_args();
         if (count($args) === 1 && (is_array($args[0]) || is_object($args[0]))) {
             $p = (array) $args[0];
@@ -84,7 +88,7 @@ class MapLocation extends Component
     {
         $this->resetInput();
         $this->showModal = true;
-        $this->dispatch('initModalMap'); // Memicu inisialisasi peta saat modal terbuka
+        $this->dispatch('initModalMap'); //Memicu inisialisasi peta saat modal terbuka
     }
 
     public function closeModal()
@@ -93,39 +97,61 @@ class MapLocation extends Component
     }
     public function save()
     {
-        $this->validate(['name' => 'required', 'lat' => 'required']);
+        $this->validate([
+            'name' => 'required',
+            'lat' => 'required',
+            'photo_urls' => 'required|array',
+            'photo_urls.*' => 'image|max:2048',
+        ]);
 
-        try {
-            \App\Models\Location::create([
-                'name' => $this->name,
-                'kecamatan' => $this->kecamatan,
-                'address' => $this->address,
-                'lat' => $this->lat,
-                'lng' => $this->lng,
+        // $photoPath = [];
+
+        $Location = Location::create([
+            'name' => $this->name,
+            'kecamatan' => $this->kecamatan,
+            'address' => $this->address,
+            'lat' => $this->lat,
+            'lng' => $this->lng,
+        ]);
+
+        foreach ($this->photo_urls as $photo) {
+            $path = $photo->store('locations', 'public');
+
+            LocationDetail::create([
+                'location_id' => $Location->id,
+                'photo_url' => $path,
             ]);
-
-            $this->closeModal();
-            $this->dispatch('swal:success', title: 'Berhasil!', text: 'Data industri baru telah ditambahkan.');
-        } catch (\Exception $e) {
-            $this->dispatch('swal:error', title: 'Gagal!', text: 'Terjadi kesalahan saat menyimpan data.');
         }
+        $this->reset();
+        $this->closeModal();
+
+        $this->dispatch(
+            'swal:success',
+            title: 'Berhasil!',
+            text: 'Data industri baru telah ditambahkan.'
+        );
     }
+
     public function edit($id)
     {
-        $loc = \App\Models\Location::findOrFail($id);
+        $loc = Location::with('details')->findOrFail($id);
+
         $this->locationId = $id;
         $this->name = $loc->name;
         $this->kecamatan = $loc->kecamatan;
         $this->address = $loc->address;
-        $this->fcode = $loc->fcode;
-        $this->radius = $loc->radius;
         $this->lat = $loc->lat;
         $this->lng = $loc->lng;
+
+        // simpan foto lama untuk preview
+        $this->existingPhotos = $loc->details ?? [];
+        ;
+
+        $this->photo_urls = []; //jangan isi dengan foto lama
 
         $this->isEdit = true;
         $this->showModal = true;
 
-        // Kirim perintah ke JS untuk memindahkan peta ke titik industri yang diedit
         $this->dispatch('initModalMap', [
             'lat' => $loc->lat,
             'lng' => $loc->lng,
@@ -135,30 +161,85 @@ class MapLocation extends Component
 
     public function update()
     {
-        try {
-            $loc = \App\Models\Location::find($this->locationId);
-            $loc->update([
-                'name' => $this->name,
-                'kecamatan' => $this->kecamatan,
-                'address' => $this->address,
-                'lat' => $this->lat,
-                'lng' => $this->lng,
-            ]);
+        $this->validate([
+            'name' => 'required',
+            'lat' => 'required',
+            'photo_urls.*' => 'image|max:2048',
+        ]);
 
-            $this->closeModal();
-            $this->dispatch('swal:success', title: 'Diperbarui!', text: 'Data industri berhasil diubah.');
-        } catch (\Exception $e) {
-            $this->dispatch('swal:error', title: 'Gagal!', text: 'Data gagal diperbarui.');
+        $loc = Location::with('details')->findOrFail($this->locationId);
+
+        // update data utama
+        $loc->update([
+            'name' => $this->name,
+            'kecamatan' => $this->kecamatan,
+            'address' => $this->address,
+            'lat' => $this->lat,
+            'lng' => $this->lng,
+        ]);
+
+        //JIKA ADA FOTO BARU
+        if ($this->photo_urls && count($this->photo_urls) > 0) {
+
+            //hapus foto lama (file + DB)
+            foreach ($loc->details as $detail) {
+                if (Storage::disk('public')->exists($detail->photo_url)) {
+                    Storage::disk('public')->delete($detail->photo_url);
+                }
+                $detail->delete();
+            }
+
+            //simpan foto baru
+            foreach ($this->photo_urls as $photo) {
+                $path = $photo->store('locations', 'public');
+
+                LocationDetail::create([
+                    'location_id' => $loc->id,
+                    'photo_url' => $path,
+                ]);
+            }
         }
+
+        $this->reset(['photo_urls', 'existingPhotos']);
+        $this->closeModal();
+
+        $this->dispatch(
+            'swal:success',
+            title: 'Diperbarui!',
+            text: 'Data industri berhasil diubah.'
+        );
     }
 
     public function delete($id)
     {
         try {
-            \App\Models\Location::destroy($id);
-            $this->dispatch('swal:success', title: 'Dihapus!', text: 'Data industri telah dihapus dari sistem.');
+            $loc = Location::with('details')->findOrFail($id);
+
+            // 1️⃣ HAPUS FILE FOTO DI STORAGE
+            foreach ($loc->details as $detail) {
+                if ($detail->photo_url && Storage::disk('public')->exists($detail->photo_url)) {
+                    Storage::disk('public')->delete($detail->photo_url);
+                }
+            }
+
+            // 2️⃣ HAPUS DATA DETAIL FOTO (DB)
+            $loc->details()->delete();
+
+            // 3️⃣ HAPUS DATA LOCATION
+            $loc->delete();
+
+            $this->dispatch(
+                'swal:success',
+                title: 'Dihapus!',
+                text: 'Data industri dan seluruh fotonya berhasil dihapus.'
+            );
+
         } catch (\Exception $e) {
-            $this->dispatch('swal:error', title: 'Gagal!', text: 'Data tidak bisa dihapus.');
+            $this->dispatch(
+                'swal:error',
+                title: 'Gagal!',
+                text: 'Data tidak bisa dihapus.'
+            );
         }
     }
 
